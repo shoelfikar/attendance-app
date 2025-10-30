@@ -1,0 +1,9 @@
+[submodule "attendance-backend"]
+	path = attendance-backend
+	url = git@github.com:shoelfikar/attendance-backend.git
+[submodule "attendance-admin"]
+	path = attendance-admin
+	url = git@github.com:shoelfikar/attendance-admin.git
+[submodule "attendance-mobile"]
+	path = attendance-mobile
+	url = git@github.com:shoelfikar/attendance-mobile.git
