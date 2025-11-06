@@ -18,3 +18,6 @@ postgres_data/
 
 # Temporary files
 *.tmp
+
+package-lock.json
+index.html
